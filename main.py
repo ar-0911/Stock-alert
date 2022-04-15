@@ -10,7 +10,7 @@ stock_api = "8JHN4CVWFTF2RV9K"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 news_api = "baeee10f119d49ebbd9a1266d889a06f"
 account_sid = 'ACbbf7d75b34869fb9a70b984dd6f0ac9d'
-auth_token = '8e7b7d674b9979601651e6bca7e679e9'
+auth_token = '8e7b7d674b9979601651e6bca7e679e9'   #token changed
 
 yesterday_date = dt.date.today() - dt.timedelta(1)
 day_before_date = yesterday_date - dt.timedelta(1)
